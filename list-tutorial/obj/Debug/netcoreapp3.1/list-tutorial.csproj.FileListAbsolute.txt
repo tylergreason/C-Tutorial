@@ -1,0 +1,12 @@
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/obj/Debug/netcoreapp3.1/list-tutorial.csprojAssemblyReference.cache
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/obj/Debug/netcoreapp3.1/list-tutorial.AssemblyInfoInputs.cache
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/obj/Debug/netcoreapp3.1/list-tutorial.AssemblyInfo.cs
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/obj/Debug/netcoreapp3.1/list-tutorial.csproj.CoreCompileInputs.cache
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/bin/Debug/netcoreapp3.1/list-tutorial.deps.json
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/bin/Debug/netcoreapp3.1/list-tutorial.runtimeconfig.json
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/bin/Debug/netcoreapp3.1/list-tutorial.runtimeconfig.dev.json
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/bin/Debug/netcoreapp3.1/list-tutorial.dll
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/bin/Debug/netcoreapp3.1/list-tutorial.pdb
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/obj/Debug/netcoreapp3.1/list-tutorial.dll
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/obj/Debug/netcoreapp3.1/list-tutorial.pdb
+/Users/smartdata/programming/cSharpTutorial/list-tutorial/obj/Debug/netcoreapp3.1/list-tutorial.genruntimeconfig.cache
