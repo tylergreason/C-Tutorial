@@ -1,0 +1,12 @@
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/bin/Debug/netcoreapp3.1/BranchesAndLoops.deps.json
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/bin/Debug/netcoreapp3.1/BranchesAndLoops.runtimeconfig.json
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/bin/Debug/netcoreapp3.1/BranchesAndLoops.runtimeconfig.dev.json
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/bin/Debug/netcoreapp3.1/BranchesAndLoops.dll
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/bin/Debug/netcoreapp3.1/BranchesAndLoops.pdb
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/obj/Debug/netcoreapp3.1/BranchesAndLoops.csprojAssemblyReference.cache
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/obj/Debug/netcoreapp3.1/BranchesAndLoops.AssemblyInfoInputs.cache
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/obj/Debug/netcoreapp3.1/BranchesAndLoops.AssemblyInfo.cs
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/obj/Debug/netcoreapp3.1/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/obj/Debug/netcoreapp3.1/BranchesAndLoops.dll
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/obj/Debug/netcoreapp3.1/BranchesAndLoops.pdb
+/Users/smartdata/programming/cSharpTutorial/BranchesAndLoops/obj/Debug/netcoreapp3.1/BranchesAndLoops.genruntimeconfig.cache
